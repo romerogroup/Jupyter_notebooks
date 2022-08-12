@@ -1,4 +1,6 @@
-*/.DS_Store
+*.DS_Store
 */.ipynb_checkpoints
 *~
 */__pycache__
+*/data/glove.6B.zip
+
